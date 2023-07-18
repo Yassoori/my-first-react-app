@@ -1,6 +1,6 @@
 import React from "react";
-import Greeting from "../componenets/Greeting";
-import Counter from "../componenets/Counter";
+import Greeting from "../components/Greeting";
+import Counter from "../components/Counter";
 
 const Home = () => {
   return (
